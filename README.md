@@ -1,7 +1,12 @@
-# Crispy Chicken 🍗
+<p align="center">
+  <img src="./1b73bcc6-911e-435f-bf5a-e3e6c4160107.png" alt="Crispy Chicken Logo" width="120" />
+</p>
 
-**Crispy Chicken** is a modern, responsive food website that brings the ultimate fried chicken experience online. From golden, juicy chicken to delicious sides and sauces, this website combines mouthwatering visuals with a smooth, interactive UI/UX.  
+<h1 align="center">🍗 Crispy Chicken</h1>
 
+<p align="center">
+  <strong>A modern, responsive food website serving golden fried chicken with mouthwatering visuals and interactive UI/UX.</strong>
+</p>
 ---
 
 ## 🔥 Features
