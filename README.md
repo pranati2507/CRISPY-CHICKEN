@@ -57,17 +57,17 @@ npm run build
 
 ## 🌐 Live Demo
 
+Check out the live website here: 
 
- ([Check out the live website here](https://crispy-chicken-pjv2.vercel.app/)
+ [CRISPY CHICKEN](https://crispy-chicken-pjv2.vercel.app/)
 
-## 🎯 Topics / Keywords
 
-react, vite, food-website, restaurant-website, crispy-chicken, fast-food, ui-ux, responsive-design, landing-page, portfolio-project
 
 
 ## 📸 Screenshots
 
-(Optional: Add screenshots of your homepage, menu, and responsive views here)
+(Optional: Add screenshots of your homepage, menu, and responsive views here)<img width="1896" height="8660" alt="image" src="https://github.com/user-attachments/assets/559066e6-744e-4979-8f7f-886e9673a317" />
+
 
 ## 💡 License
 
