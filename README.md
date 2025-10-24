@@ -66,7 +66,8 @@ Check out the live website here:
 
 ## 📸 Screenshots
 
-(Optional: Add screenshots of your homepage, menu, and responsive views here)<img width="1896" height="8660" alt="image" src="https://github.com/user-attachments/assets/559066e6-744e-4979-8f7f-886e9673a317" />
+<img width="1890" height="1171" alt="image" src="https://github.com/user-attachments/assets/5c206c96-9bde-4d85-aaf0-a0bd7090a8ab" />
+
 
 
 ## 💡 License
