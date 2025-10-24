@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./1b73bcc6-911e-435f-bf5a-e3e6c4160107.png" alt="Crispy Chicken Logo" width="120" />
+  <img src="![Screenshot_24-10-2025_14497_crispy-chicken-pjv2 vercel app](https://github.com/user-attachments/assets/ff7cb1d1-cb9f-44fa-8309-ce37adb14603)
+" alt="Crispy Chicken Logo" width="120" />
 </p>
 
 <h1 align="center">🍗 Crispy Chicken</h1>
