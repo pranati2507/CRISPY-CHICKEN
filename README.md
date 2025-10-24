@@ -66,7 +66,8 @@ Check out the live website here:
 
 ## 📸 Screenshots
 
-<img width="1890" height="1171" alt="image" src="https://github.com/user-attachments/assets/5c206c96-9bde-4d85-aaf0-a0bd7090a8ab" />
+<img width="1888" height="842" alt="image" src="https://github.com/user-attachments/assets/4d00c438-6ad7-479f-ab0e-ffd4cfa3a1aa" />
+
 
 
 
