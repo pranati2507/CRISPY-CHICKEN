@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="![Screenshot_24-10-2025_14497_crispy-chicken-pjv2 vercel app](https://github.com/user-attachments/assets/ff7cb1d1-cb9f-44fa-8309-ce37adb14603)
-" alt="Crispy Chicken Logo" width="120" />
-</p>
+# Crispy Chicken 🍗
 
-<h1 align="center">🍗 Crispy Chicken</h1>
+**Crispy Chicken** is a modern, responsive food website that brings the ultimate fried chicken experience online. From golden, juicy chicken to delicious sides and sauces, this website combines mouthwatering visuals with a smooth, interactive UI/UX.  
 
-<p align="center">
-  <strong>A modern, responsive food website serving golden fried chicken with mouthwatering visuals and interactive UI/UX.</strong>
-</p>
 ---
 
 ## 🔥 Features
