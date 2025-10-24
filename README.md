@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Fast-Food Restaurant Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# CRISPY-CHICKEN
+>>>>>>> a7526a7bf487c36e0dd04700f096a1f104663452
